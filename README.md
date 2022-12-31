@@ -1,4 +1,5 @@
 # Sparkify - Udacity DATA SCIENTIST CAPSTONE 
+Medium Link: https://medium.com/@muellerch2293/please-do-not-leave-5a31644680cf
 ## Overview and Motivation
 
 In this project the user data of a ficitional music streaming app called Sparkify was used to develop ML models that predict the customer churn of sparkify.
