@@ -16,20 +16,7 @@ Beeing able to predict whether a user will churn or not is important. If the bus
 | accuracy  |  0.739 |0.7826   | 0.7826   |
 | predicted user churn   |  0.188 | 0.1159  | 0.0869  |
 
-Gradient Boost Classifier
-f1_score: 0.4375
-accuracy: 0.7391304347826086
-predicted user churn ration: 0.18840579710144928
 
-Random Forest Classifier
-f1_score: 0.44444444444444436
-accuracy: 0.782608695652174
-predicted user churn ration: 0.08695202898550725
-
-Logistic Regression
-f1_score: 0.39999999999999997
-accuracy: 0.782608695652174
-predicted user churn ration: 0.08695652173913043
 
 *actual user churn ratio: 0.28
 
@@ -40,8 +27,8 @@ The project consists of two files:
   <li>mini_sparkify_event_data.json: file containing the user activity log data</li>
 </ol>
 
-
- The repository must have a README.md file that communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements.
+## Libraries
+pyspark, numpy, sklearn, seaborn, matplotlib, pandas
 
 
 
