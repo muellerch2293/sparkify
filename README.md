@@ -16,11 +16,9 @@ Beeing able to predict whether a user will churn or not is important. If the bus
 | accuracy  |  0.739 |0.7826   | 0.7826   |
 | predicted user churn   |  0.188 | 0.1159  | 0.0869  |
 
-
-
 *actual user churn ratio: 0.28
 
-##Files
+## Files
 The project consists of two files:
 <ol>
   <li>Sparkify.ipynb: notebook used to develop ML models</li>
