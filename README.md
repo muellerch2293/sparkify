@@ -22,7 +22,7 @@ Beeing able to predict whether a user will churn or not is important. If the bus
 The project consists of two files:
 <ol>
   <li>Sparkify.ipynb: notebook used to develop ML models</li>
-  <li>mini_sparkify_event_data.json: file containing the user activity log data</li>
+  <li>mini_sparkify_event_data.json: file containing the user activity log data (not in repository due to size, provided by Udacity)</li>
 </ol>
 
 ## Libraries
