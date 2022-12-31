@@ -8,7 +8,13 @@ According to https://www.qualtrics.com/uk/experience-management/customer/custome
 
 Beeing able to predict whether a user will churn or not is important. If the business reacts appropriately it can apply countermeasures to "prevent" the user from leaving the app. Furthermore valuable insights are gained by analysing the reasons why users leave the app. Using this information the user-experience can be improved st less users leave the app.
 
-##Results
+## Results
+
+|   |  Gradient Boost Classifier |  Random Forest Classifier | Logistic Regression  |   |
+|---|---|---|---|---|
+| f1_score  |   0.4375 | 0.4444  | 0.1884  | 
+| accuracy  |  0.739 |0.7826   | 0.08695   | 
+| predicted user churn   |  0.188 | 0.7826  | 0.08695  | 
 
 Gradient Boost Classifier
 f1_score: 0.4375
@@ -18,7 +24,7 @@ predicted user churn ration: 0.18840579710144928
 Random Forest Classifier
 f1_score: 0.44444444444444436
 accuracy: 0.782608695652174
-predicted user churn ration: 0.11594202898550725
+predicted user churn ration: 0.08695202898550725
 
 Logistic Regression
 f1_score: 0.39999999999999997
