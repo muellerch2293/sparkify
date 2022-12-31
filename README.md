@@ -10,11 +10,11 @@ Beeing able to predict whether a user will churn or not is important. If the bus
 
 ## Results
 
-|   |  Gradient Boost Classifier |  Random Forest Classifier | Logistic Regression  
+|   |  Gradient Boost Classifier |  Random Forest Classifier | Logistic Regression  |
 |---|---|---|---|---|
-| f1_score  |   0.4375 | 0.4444  | 0.3999  
-| accuracy  |  0.739 |0.7826   | 0.7826   
-| predicted user churn   |  0.188 | 0.1159  | 0.0869  
+| f1_score  |   0.4375 | 0.4444  | 0.3999  |
+| accuracy  |  0.739 |0.7826   | 0.7826   |
+| predicted user churn   |  0.188 | 0.1159  | 0.0869  |
 
 Gradient Boost Classifier
 f1_score: 0.4375
