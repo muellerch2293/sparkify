@@ -16,7 +16,7 @@ Beeing able to predict whether a user will churn or not is important. If the bus
 | f1_score  |   0.399 | 0.518  | 0.272  |
 | accuracy  |  0.695 |0.811 | 0.7681  |
 | predicted user churn   |  0.231 | 0.115 | 0.0434  |
-| training time  | 47 s | 602 s | 24 s  |
+| training time  | 602 s |  24 s | 47 s   |
 *actual user churn ratio: 0.28
 
 ## Files
